@@ -1,0 +1,13 @@
+venv_tp4/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+minio-data/
+.env
+*.zip
+report/Rapport_TP4_Ingestion_Streaming_Kafka.docx
+venv_tp4/
+__pycache__/
+*.pyc
+minio-data/
+*.zip
